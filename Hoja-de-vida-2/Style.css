@@ -1,0 +1,128 @@
+body {
+    margin: 0; 
+    padding: 0;
+    background: #EBF5EE;
+}
+
+.name {
+    width: 100%;
+    height: 300px;
+    background: #D9F7FA;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+img {
+    position: absolute;
+    top: 5%;
+    right: 20%;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.name .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 15%
+}
+h1 {
+    color: blue;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+p {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+h2 {
+    color: blueviolet;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+    position: relative;
+    left: 10%;
+}
+
+.name2 {
+    width: 90%;
+    height: auto;
+    background: #D9F7FA;
+    margin: 5% auto;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.experien {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    position: relative;
+    left: 10%;
+}
+
+.name3 {
+    width: 90%;
+    height: auto;
+    background: #D9F7FA;
+    margin: 5% auto;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.table {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    position: relative;
+    left: 10%;
+}
+
+.orden {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    position: relative;
+    left: 50%;
+}
+
+.orden2 {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    position: relative;
+    left: 80%;
+}
+
+.cuadro {
+    width: 90%;
+    height: auto;
+    background: #D9F7FA;
+    margin: 5% auto;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+#addSkill {
+    display: flex;
+    align-items: flex-end;
+    height: auto;
+}
+

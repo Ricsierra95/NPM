@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Programacion"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hoja-de-vida-2-main"
+	}
+}
